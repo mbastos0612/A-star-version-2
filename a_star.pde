@@ -1,3 +1,4 @@
+//Jerson Wade, Mauren Bastos, Francisco Duran
 import java.util.Stack;
 
 int longitudCanvas = 410;
